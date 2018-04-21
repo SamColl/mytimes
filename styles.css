@@ -8,10 +8,14 @@ header {
   }
 .logo {
   display: inline-flex;
+  align-items: center;
+}
+.logotext {
+  padding-left: 20px;
 }
 
 .menu {
-  align: right;
+text-align: center;
 
 
 }

@@ -29,5 +29,14 @@ header {
   text-decoration: none;
 }
 a {
-  color: black;
+  color: pink;
+}
+
+.main-container  {
+  border: 1px;
+  display: flex;
+  width: 100%;
+}
+.large {
+  display: inline-flex;
 }

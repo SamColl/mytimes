@@ -5,6 +5,8 @@ header {
   font-weight: bold;
   color: MediumAquamarine;
   display: flex;
+  width: 100%;
+  justify-content: space-between;
   }
 .logo {
   display: inline-flex;
@@ -15,10 +17,17 @@ header {
 }
 
 .menu {
-text-align: center;
-
+  display: inline-flex;
+  align-items: center;
+  justify-items: flex-end;
 
 }
 .menu-item {
-display: inline-block;
+  padding: 20px;
+  justify-content: flex-end;
+  color: black;
+  text-decoration: none;
+}
+a {
+  color: black;
 }

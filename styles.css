@@ -39,34 +39,5 @@ div {
 .main-container  {
   border: 1px;
   display: flex;
-  width: 100%;
-}
-.large {
-  display: inline-flex;
-  width: 630px;
-  flex-direction: column;
-
-  width:
-}
-.middle {
-  display: inline-flex;
-  width: 300px;
-}
-.small {
-  display: inline-flex
-  width: 240px;
-}
-
-.main-story {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
-  display: inline-flex;
-  padding-left: 20px;
-  margin: 20px 0px;
-}
-
-h1 {
-  font-family: Georgia;
-  font-weight: bold;
-  font-size: 40px;
-  color: white;
+  
 }

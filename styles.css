@@ -33,24 +33,23 @@ div {
   border: 1px solid black;
 }
 .content {
-  width: 1230px;
+
   display: flex;
-  margin: 0px auto 100px auto;
+  justify-content: center;
   padding-top: 50px;
+
 }
-.column.large {
+.large-column {
   width: 630px;
-  display: flex;
   margin-right: 30px;
+
 }
 
-.column.middle {
+.middle-column {
   width: 300px;
-  display: flex;
   margin-right: 30px;
 }
 
-.column.small {
+.small-column {
   width: 240px;
-  display: flex;
 }
